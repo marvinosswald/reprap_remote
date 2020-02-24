@@ -13,3 +13,9 @@ A remote controller for our beloved reprap firmware.
 - Button or maybe emergency button, might be bad idea and revoked in design later on
 ### Macro Trigger
 - Macro selector or dedicated buttons
+### OLED Screen
+Information:
+- X
+- Y
+- Z
+- Percentage
