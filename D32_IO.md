@@ -1,16 +1,16 @@
 | # | Name | Interupt | IO | Pin |
 | -- | ---- | -------- | ---- | ----- |
-|1 | key_1_IN | X |  I | A0 |
+|1 | key_1_IN | X |  I |  |
 |2 | key_1_OUT | | O |
-|3 | key_2_IN | X | I | A1 |
+|3 | key_2_IN | X | I |  |
 |4 | key_2_OUT | | O |
-|5 | key_3_IN | X | I | A2 |
+|5 | key_3_IN | X | I |  |
 |6 | key_3_OUT | | O |
-|7 | key_4_IN | X | I | A3 |
+|7 | key_4_IN | X | I |  |
 |8 | key_4_OUT | | O |
-|9 | key_5_IN | X | I | A4 |
+|9 | key_5_IN | X | I |  |
 |10 | key_5_OUT | | O |
-|11 | key_6_IN | X | I | A5 |
+|11 | key_6_IN | X | I |  |
 |12 | key_6_OUT | | O |
 |13 | enc_a | X | I |
 |14 | enc_b | X | I |
