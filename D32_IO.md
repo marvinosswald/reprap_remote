@@ -24,3 +24,7 @@
 |22 | serial_2 | | O |
 | 23 | +5V | | |
 | 24 | GND | | |
+|25 | key_axis_IN | X | I |
+|26 | joy_x | X | I |
+|26 | joy_y | X | I |
+|26 | joy_click | X | I |
