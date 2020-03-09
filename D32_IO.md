@@ -22,3 +22,5 @@
 |20 | disp_z_sck | | O |
 |21 | serial_1 | | O |
 |22 | serial_2 | | O |
+| 23 | +5V | | |
+| 24 | GND | | |
